@@ -1,4 +1,9 @@
 h1{
 font-size: 3rem;
-color: red;
+color: green;
+}
+p{
+    color: blue;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
